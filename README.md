@@ -5,7 +5,6 @@
  
  Testing @Nestify for now.
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pangeldelacruzdev)
 
  ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 
