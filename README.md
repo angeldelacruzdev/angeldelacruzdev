@@ -1,7 +1,9 @@
 ### Hi there, I am Ángel 👋
 
+ Front: React, Angular, Vue.
+ Back:  NestJS Framework. 
  
- Using NestJS Framework. 
+ Dart, Python, JavaScript, TypeScript, PHP, CSS, HTML.
  
  Testing @Nestify for now.
  
