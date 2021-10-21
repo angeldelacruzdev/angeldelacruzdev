@@ -1,12 +1,12 @@
-### Hi there, I am Ángel 👋
+Hi there, my name is Ángel 👋, I am From Dominican Republic.
 
  Front: React, Angular, Vue.
- 
+
  Back:  NestJS Framework. 
  
  Dart, Python, JavaScript, TypeScript, PHP, CSS,SCSS, HTML.
  
- Testing @Nestify for now.
+ some @Nestify for now.
  
  
 ## Used Digitalocean for application and infrastructure deployment. 
