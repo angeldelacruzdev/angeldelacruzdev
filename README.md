@@ -4,7 +4,7 @@ Hi there, my name is Ángel 👋, I am From Dominican Republic.
 
  Back:  NestJS Framework. 
  
- Dart, Python, JavaScript, TypeScript, PHP, CSS,SCSS, HTML.
+ Dart, Python, JavaScript, TypeScript, PHP, CSS, HTML.
  
  some @Nestify for now.
  
