@@ -1,10 +1,17 @@
- My name: Ángel De La Cruz ( MAKUMBA )
+ My name: Ángel De La Cruz ( MAKUMBA ) 
+ 
 🖥️ Full Stack Developer
+
 📝 Autodidact
+
 🎂 1991
+
 🇩🇴 Dominican Republic
+
 🏋️ GYM
+
 ☀️ "Nothing is eternal, everything is subject to change and evolution"☀️
+
  
 ## Used Digitalocean for application and infrastructure deployment. 
  
