@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ángel De La Cryz</h1>
+<h1 align="center">Hi 👋, I'm Ángel De La Cruz</h1>
 <h3 align="center">A passionate frontend and backend developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeldelacruzdev&label=Profile%20views&color=0e75b6&style=flat" alt="angeldelacruzdev" /> </p>
