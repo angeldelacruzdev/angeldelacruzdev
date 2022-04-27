@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Soft2now**
 
-- 💬 Ask me about **React, NestJs**
+- 💬 Ask me about **React, NestJs, Web 3.0**
 
 - 📫 How to reach me **angeldelacruzdev@gmail.com**
 
