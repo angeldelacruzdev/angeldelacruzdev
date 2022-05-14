@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **angeldelacruzdev@gmail.com**
 
-- Comunidad en Discord: https://discord.gg/ceTURzTR 
+- Discord Community: https://discord.gg/ceTURzTR 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
