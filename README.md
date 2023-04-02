@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel De La Cruz</h1>
-<h3 align="center">A passionate frontend / backend developer from Dominican Republic</h3>
+<h3 align="center">A passionate frontend / backend developer</h3>
 
 - 🔭 I’m currently working on React / NestJS [Soft2now](https://www.soft2now.com/)
 
