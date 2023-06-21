@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Flutter.**
 
-- 💬 Ask me about **React, Nestjs, MongoDB**
+- 💬 Ask me about **React, Nestjs, MongoDB, SQL**
 
 - 📫 How to reach me **angeldelacruzdev@gmail.com**
 
