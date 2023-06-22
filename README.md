@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React / NestJS [Soft2now](https://www.soft2now.com/)
 
-- 🌱 I’m currently learning **Angular, Flutter.**
+- 🌱 I’m currently learning **Angular, Flutter, Qwik. **
 
 - 💬 Ask me about **React, Nestjs, MongoDB, SQL**
 
